@@ -33,7 +33,7 @@ This tool allows business teams and data analysts to query a MySQL database usin
 
 ---
 
-![architecture](Untitled diagram _ Mermaid Chart-2025-07-21-200607.png)
+![architecture](https://github.com/adrija26sg/-LLM-Powered-Business-Query-Assistant/blob/main/Untitled%20diagram%20_%20Mermaid%20Chart-2025-07-21-200607.png)
 
 ---
 
@@ -41,5 +41,5 @@ This tool allows business teams and data analysts to query a MySQL database usin
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/adrija26sg/hantavirus-database.git
+   git clone [https://github.com/adrija26sg/hantavirus-database.git](https://github.com/adrija26sg/-LLM-Powered-Business-Query-Assistant)
    cd hantavirus-database
