@@ -5,7 +5,8 @@
 [![LangChain](https://img.shields.io/badge/LangChain-Framework-lightgrey)](https://www.langchain.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1)](https://www.mysql.com/)
 
-![Chat with your database]()
+![Chat with your database](<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/53bdb2ab-b54a-4e6d-bacc-ea666c9d07c0" />
+)
 
 ## 🚀 Overview
 
